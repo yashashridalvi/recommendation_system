@@ -59,6 +59,8 @@ In addition to recommendations, the system provides business insights and stylin
   - Trending colors
   - Seasonal demand
 - Helps increase average order value
+  <img width="752" height="323" alt="image" src="https://github.com/user-attachments/assets/2db926bb-cd00-4c2e-a4ea-504af5a0f560" />
+
 
 ---
 
