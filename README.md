@@ -60,8 +60,6 @@ In addition to recommendations, the system provides business insights and stylin
   - Seasonal demand
 - Helps increase average order value
   <img width="752" height="323" alt="image" src="https://github.com/user-attachments/assets/2db926bb-cd00-4c2e-a4ea-504af5a0f560" />
-
-
 ---
 
 ## 🖥️Display by using Streamlit App
@@ -69,4 +67,12 @@ command :- streamlit run app.py
 
 <img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/70948577-b680-436e-beb0-bda3a6d1737a" />
 <img width="956" height="437" alt="image" src="https://github.com/user-attachments/assets/d99b50f7-e7ac-481d-9e8e-04d7c93b7abd" />
+
+## Challenges
+- Memory issues with large similarity matrices
+- Repetitive recommendations
+## Solutions
+- Optimized similarity computation (O(n))
+- Added diversity filtering for better results
+
 
